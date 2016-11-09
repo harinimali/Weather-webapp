@@ -1,1 +1,2 @@
-# thankgod-its-friday
+# Forecast Weather web application.
+
